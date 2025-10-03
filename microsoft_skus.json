@@ -1,0 +1,192 @@
+[
+	{
+		"ID": "05e9a617-0261-4cee-bb44-138d3ef5d965",
+		"Name": "Microsoft 365 E3",
+		"matching_id_string_list": "ca9d1dd9-dfe9-4fef-b97c-9bc1ea3c3658,d61d61cc-f992-433f-a577-5bd016037eeb,602e6573-55a3-46b1-a1a0-cc267991501a,0c21030a-7e60-4ec7-9a0f-0042e0e0211a,c2ac2ee4-9bb1-47e4-8541-d689c7e83371,a23dbafb-3396-48b3-ad9c-a304fe206043,f5b15d67-b99e-406b-90f1-308452f94de6,c2fe850d-fbbb-4858-b67d-bd0c6e746da3,05e9a617-0261-4cee-bb44-138d3ef5d965,6348e3b6-dcb6-44a6-c8b2-d23760842397"
+	},
+	{
+		"ID": "06ebc4ee-1bb5-47dd-8120-11324bc54e06",
+		"Name": "Microsoft 365 E5",
+		"matching_id_string_list": "4eb45c5b-0d19-4e33-b87c-adfc25268f20,a640eead-25f6-4bec-97e3-23cfd382d7c2,1e988bf3-8b7c-4731-bec0-4e2a2946600c,2113661c-6509-4034-98bb-9c47bd28d63c,cd2925a3-5076-4233-8931-638a8c94f773,99cc8282-2f74-4954-83b7-c6a9a1999067,a91fc4e0-65e5-4266-aa76-4037509c1626,44ac31e7-2999-4304-ad94-c948886741d4,26124093-3d78-432b-b5dc-48bf992543d5,3271cf8e-2be5-4a09-a549-70fd05baaa17,184efa21-98c3-4e5d-95ab-d07053a96e67,c42b9cae-ea4f-4ab7-9717-81576235ccac,db684ac5-c0e7-4f92-8284-ef9ebde75d33,90277bc7-a6fe-4181-99d8-712b08b8d32b,6ee4114a-9b2d-4577-9e7a-49fa43d222d3,06ebc4ee-1bb5-47dd-8120-11324bc54e06,18a4bd3f-0b5b-4887-b04f-61dd0ee15f5e"
+	},
+	{
+		"ID": "08d7bce8-6e16-490e-89db-1d508e5e9609",
+		"Name": "Microsoft 365 Audio Conferencing",
+		"matching_id_string_list": "923f58ab-fca1-46a1-92f9-89fda21238a8,11dee6af-eca8-419f-8061-6864517c1875,df9561a4-4969-4e6a-8e73-c601b68ec077,170ba00c-38b2-468c-a756-24c05037160a,4dee1f32-0808-4fd2-a2ed-fdd575e3a45f,2d3091c7-0712-488b-b3d8-6b97bde6a1f5,c2cda955-3359-44e5-989f-852ca0cfa02f,0c266dff-15dd-4b49-8397-2bb16070ed52,08d7bce8-6e16-490e-89db-1d508e5e9609"
+	},
+	{
+		"ID": "1392051d-0cb9-4b7a-88d5-621fee5e8711",
+		"Name": "Office 365 E4",
+		"matching_id_string_list": "1392051d-0cb9-4b7a-88d5-621fee5e8711"
+	},
+	{
+		"ID": "18181a46-0d4e-45cd-891e-60aabd171b4e",
+		"Name": "Office 365 E1",
+		"matching_id_string_list": "b57282e3-65bd-4252-9502-c0eae1e5ab7f,18181a46-0d4e-45cd-891e-60aabd171b4e"
+	},
+	{
+		"ID": "1b1b1f7a-8355-43b6-829f-336cfccb744c",
+		"Name": "Office 365 Advanced Compliance",
+		"matching_id_string_list": "1a585bba-1ce3-416e-b1d6-9c482b52fcf6,1b1b1f7a-8355-43b6-829f-336cfccb744c"
+	},
+	{
+		"ID": "1fc08a02-8b3d-43b9-831e-f76859e04e1a",
+		"Name": "SharePoint Online",
+		"matching_id_string_list": "a9732ec9-17d9-494c-a51c-d6b45b384dcb,1fc08a02-8b3d-43b9-831e-f76859e04e1a"
+	},
+	{
+		"ID": "2b9c8e7c-319c-43a2-a2a0-48c5c6161de7",
+		"Name": "Microsoft Entra ID",
+		"matching_id_string_list": "84a661c4-e949-4bd2-a560-ed7766fcaf2b,de597797-22fb-4d65-a9fe-b7dbe8893914,30fc3c36-5a95-4956-ba57-c09c2a600bb9,078d2b04-f1bd-4111-bbd4-b4b1b354cef4,2b9c8e7c-319c-43a2-a2a0-48c5c6161de7"
+	},
+	{
+		"ID": "328dc228-00bc-48c6-8b09-1fbc8bc3435d",
+		"Name": "Dynamics 365",
+		"matching_id_string_list": "1d506c23-1702-46f1-b940-160c55f98d05,79909bd8-4c69-4202-939e-11bc4385b134,6c827f0a-42cb-4cff-b1cd-f4104c16ede3,ccba3cfe-71ef-423a-bd87-b6df3dce59a9,7ac9fe77-66b7-4e5e-9e46-10eed1cff547,b56e7ccc-d5c7-421f-a23b-5c18bdbad7c0,5b22585d-1b71-4c6b-b6ec-160b1a9c2323,e48328a2-8e98-4484-a70f-a99f8ac9ec89,7a551360-26c4-4f61-84e6-ef715673e083,98619618-9dc8-48c6-8f0c-741890ba5f93,338148b6-1b11-4102-afb9-f92b6cdc0f8d,f7ad4bca-7221-452c-bdb6-3e6089f25e06,e485d696-4c87-4aac-bf4a-91b2fb6f0fa7,3bbd44ed-8a70-4c07-9088-6232ddbd5ddd,0a389a77-9850-4dc4-b600-bc66fdfefc60,ba05762f-32ff-4fac-a096-55309b3700a3,8e7a3d30-d97d-43ab-837c-d7701cef83dc,e561871f-74fa-4f02-abee-5b0ef54dd36d,3a256e9a-15b6-4092-b0dc-82993f4debc6,f2e48cb3-9da0-42cd-8464-4a54ce198ad0,245e6bf9-411e-481e-8611-5c08595e2988,9c7bff7a-3715-4da7-88d3-07f57f8d0fb6,229fa362-9d30-4dbc-8110-21b77a7f9b26,be9f9771-1c64-4618-9907-244325141096,6ec92958-3cc1-49db-95bd-bc6b3798df71,7ed4877c-0863-4f69-9187-245487128d4f,238e2f8d-e429-4035-94db-6926be4ffe7b,090b4a96-8114-4c95-9c91-60e81ef53302,2edaa1dc-966d-4475-93d6-8ee8dfd96877,494721b8-1f30-4315-aba6-70ca169358d9,e85b3345-2fd5-45cf-a196-7968d3e18e56,28b275ce-aec7-4c26-82e2-1ffbc2746ad4,1e1a282c-9c54-43a2-9310-98ef728faace,8edc2cf8-6438-4fa9-b6e3-aa1660c640cc,1ec19b5f-7542-4b20-b01f-fb5d3f040e2d,af739e8e-dd11-4eb5-a986-5908f595c603,b75074f1-4c54-41bf-970f-c9ac871567f5,4b32a493-9a67-4649-8eb9-9fc5a5f75c12,85430fb9-02e8-48be-9d7e-328beb41fa29,c393e9bd-2335-4b46-8b88-9e2a86a85ec1,d8eec316-778c-4f14-a7d1-a0aca433b4e7,23053933-0fda-431f-9a5b-a00fd78444c1,99c5688b-6c75-4496-876f-07f0fbd69add,de176c31-616d-4eae-829a-718918d7ec23,99cb3f83-fbec-4aa1-8262-9679e6df7c53,cc13a803-544e-4464-b4e4-6d6169a138fa,8eac9119-7e6b-4278-9dc4-e3458993b08a,c3d74ead-70b7-4513-8dce-797be3fbe07a,c7d15985-e746-4f01-b113-20b575898250,a36cdaa2-a806-4b6e-9ae0-28dbd993c20e,3c74d823-8f01-4fe8-82d5-f089a5504cec,749742bf-0d37-4158-a120-33567104deeb,7d7af6c2-0be6-46df-84d1-c181b0272909,ff5a82be-1edd-4d48-94e0-52527825b589,5cd0b796-9ac8-4792-9f0b-796ca9044e4a,d39fb075-21ae-42d0-af80-22a2599749e0,55c9eb4e-c746-45b4-b255-9ab6b19d5c62,29fcd665-d8d1-4f34-8eed-3811e3fca7b3,e7965e3a-1f49-4d67-a3de-ad1ce460bbcc,977464c4-bfaf-4b67-b761-a9bb735a2196,2bd3cb20-1bb6-446b-b4d0-089af3a05c52,2cf302fe-62db-4e20-b573-e0998b1208b5,1d2756cb-2147-4b05-b4d5-f013c022dcb9,a4bfb28e-becc-41b0-a454-ac680dc258d3,67f58b51-af53-4344-9663-9a2beb1d8a8e,cb9bc974-a47b-4123-998d-a383390168cc,4aed5dd6-eb9c-4143-8f14-368d70287121,e2ae107b-a571-426f-9367-6d4c8f1390ba,65f71586-ade3-4ce1-afc0-1b452eaf3782,446a86f8-a0cb-4095-83b3-d100eb050e3d,359ea3e6-8130-4a57-9f8f-ad897a0342f1,19dec69d-d9f3-4792-8a39-d8ecdf51937b,1439b6e2-5d59-4873-8c59-d60e2a196e92,bc946dac-7877-4271-b2f7-99d2db13cd2c,61e6bd70-fbdb-4deb-82ea-912842f39431,1e615a51-59db-4807-9957-aa83c3657351,65758a5f-2e16-43b3-a8cb-296cd8f69e09,eb18b715-ea9d-4290-9994-2ebf4b5042d2,036c2481-aa8a-47cd-ab43-324f0c157c2d,0c250654-c7f7-461f-871a-7222f6592cf2,94a6fbd4-6a2f-4990-b356-dc7dd8bed08a,1b399f66-be2a-479c-a79d-84a43a46f79e,ea9ba490-50b8-474e-8671-9fec0f1268f3,6ec542c9-2a86-4d4a-8a52-d233eb58ef0a,336dfe1f-3b33-4ab4-b395-cba8f614976d,a3d0cd86-8068-4071-ad40-4dc5b5908c4b,ea126fc5-a19e-42e2-a731-da9d437bffcf,1508ad2d-5802-44e6-bfe8-6fb65de63d28,2e3c4023-80f6-4711-aa5d-29e0ecb46835,f991cecc-3f91-4cd0-a9a8-bf1c8167e029,6a4a1628-9b9a-424d-bed5-4118f0ede3fd,9a1e33ed-9697-43f3-b84c-1b0959dbb1d4,2880026b-2b0c-4251-8656-5d41ff11e3aa,7d0d4f9a-2686-4cb8-814c-eff3fdab6d74,a58f5506-b382-44d4-bfab-225b2fbf8390,673afb9d-d85b-40c2-914e-7bf46cd5cd75,c6df1e30-1c9f-427f-907c-3d913474a1c7,e06abcc2-7ec5-4a79-b08b-d9c282376f72,9d776713-14cb-4697-a21d-9a52455c738a,328dc228-00bc-48c6-8b09-1fbc8bc3435d"
+	},
+	{
+		"ID": "3b555118-da6a-4418-894f-7df1e2096870",
+		"Name": "Microsoft 365 Business Basic",
+		"matching_id_string_list": "b1f3042b-a390-4b56-ab61-b88e7e767a97,dab7782a-93b1-4074-8bb1-0e61318bea0b,3b555118-da6a-4418-894f-7df1e2096870,21502a13-c8dc-4744-be9c-177fd9d2eafc"
+	},
+	{
+		"ID": "3f4babde-90ec-47c6-995d-d223749065d1",
+		"Name": "Office 365 G1",
+		"matching_id_string_list": "3f4babde-90ec-47c6-995d-d223749065d1"
+	},
+	{
+		"ID": "44575883-256e-4a79-9da4-ebe9acabe2b2",
+		"Name": "Microsoft 365 F1",
+		"matching_id_string_list": "0666269f-b167-4c5b-a76f-fc574f2b1118,50f60901-3181-4b75-8a2c-4c8e4c1d5a72,44575883-256e-4a79-9da4-ebe9acabe2b2"
+	},
+	{
+		"ID": "4b590615-0888-425a-a965-b3bf7789848d",
+		"Name": "Microsoft 365 A3",
+		"matching_id_string_list": "1aa94593-ca12-4254-a738-81a5972958e8,32a0e471-8a27-4167-b24f-941559912425,18250162-5d87-4436-a834-d795c15c80f3,7cfd9a2b-e110-4c39-bf20-c6a3f36a3121,4b590615-0888-425a-a965-b3bf7789848d"
+	},
+	{
+		"ID": "4b9405b0-7788-4568-add1-99614e613b69",
+		"Name": "Exchange Online",
+		"matching_id_string_list": "7be8dc28-4da4-4e6d-b9b9-c60f2806df8a,45a2423b-e884-448d-a831-d9e139c52d2f,cb0a98a8-11bc-494c-83d9-c1b1ac65327e,80b2d799-d2ba-4d2a-8842-fb0d0f3a4b82,e8f81a67-bd96-4074-b108-cf193eb9433b,7fc0182e-d107-4556-8329-7caaa511197b,90b5e015-709a-4b8b-b08e-3200f994494c,ee02fd1b-340e-4a4b-b355-4a514e4c8943,0b7b15a8-7fd2-4964-bb96-5a566d4e3c15,19ec0d23-8335-4cbd-94ac-6050e30712fa,f37d5ebf-4bf1-4aa2-8fa3-50c51059e983,ad2fe44a-915d-4e2b-ade1-6766d50a9d9c,aa0f9eb7-eff2-4943-8424-226fb137fcad,4b9405b0-7788-4568-add1-99614e613b69"
+	},
+	{
+		"ID": "535a3a29-c5f0-42fe-8215-d3b9e1f38c4a",
+		"Name": "Office 365 G3",
+		"matching_id_string_list": "24aebea8-7fac-48d0-8750-de4ee1fde205,535a3a29-c5f0-42fe-8215-d3b9e1f38c4a"
+	},
+	{
+		"ID": "5b631642-bd26-49fe-bd20-1daaa972ef80",
+		"Name": "Microsoft Power Apps",
+		"matching_id_string_list": "ddfae3e3-fcb2-4174-8ebd-3023cb213c8b,4755df59-3f73-41ab-a249-596ad72b5504,f30db892-07e9-47e9-837c-80727f46fd3d,dcb1a3ae-b33f-4487-846a-a640262fadf4,5b631642-bd26-49fe-bd20-1daaa972ef80"
+	},
+	{
+		"ID": "6634e0ce-1a9f-428c-a498-f84ec7b8aa2e",
+		"Name": "Office 365 E2",
+		"matching_id_string_list": "6634e0ce-1a9f-428c-a498-f84ec7b8aa2e"
+	},
+	{
+		"ID": "66b55226-6b4f-492c-910c-a3b7a3c9d993",
+		"Name": "Microsoft 365 F3",
+		"matching_id_string_list": "2a914830-d700-444a-b73c-e3f31980d833,f7ee79a7-7aec-4ca4-9fb9-34d6b930ad87,74039b88-bd62-4b5c-9d9c-7a92bbc0bfdf,d1f0495b-cb7b-4e11-8b85-daee7e7e5664,4b585984-651b-448a-9e53-3b10f069cf7f,66b55226-6b4f-492c-910c-a3b7a3c9d993"
+	},
+	{
+		"ID": "6fd2c87f-b296-42f0-b197-1e91e994b900",
+		"Name": "Office 365 E3",
+		"matching_id_string_list": "aea38a85-9bd5-4981-aa00-616b411205bf,b107e5a3-3e60-4c0d-a184-a7e4395eb44c,189a915c-fe4f-4ffa-bde4-85b9628d07a0,d711d25a-a21c-492f-bd19-aae1e8ebaf30,6fd2c87f-b296-42f0-b197-1e91e994b900,46c3a859-c90d-40b3-9551-6178a48d5c18"
+	},
+	{
+		"ID": "776df282-9fc0-4862-99e2-70e561b9909e",
+		"Name": "Project for Office 365",
+		"matching_id_string_list": "b732e2a7-5694-4dff-a0f2-9d9204c794ac,f2230877-72be-4fec-b1ba-7156d6f75bd6,930cc132-4d6b-4d8c-8818-587d17c50d56,64758d81-92b7-4855-bcac-06617becb3e8,5d505572-203c-4b83-aa9b-dab50fb46277,074c6829-b3a0-430a-ba3d-aca365e57065,46974aed-363e-423c-9e6a-951037cec495,46102f44-d912-47e7-b0ca-1bd7b70ada3b,53818b1b-4a27-454b-8896-0dba576410e6,84cd610f-a3f8-4beb-84ab-d9d2c902c6c9,beb6439c-caad-48d3-bf46-0c82871e12be,f82a60b8-1ee3-4cfb-a4fe-1c6a53c2656c,2db84718-652c-47a7-860c-f10d8abbdae3,09015f9f-377f-4538-bbb5-f75ceb09358a,ca1a159a-f09e-42b8-bb82-cb6420f54c8e,e433b246-63e7-4d0b-9efa-7940fa3264d6,776df282-9fc0-4862-99e2-70e561b9909e,a10d5e58-74da-4312-95c8-76be4e5b75a0"
+	},
+	{
+		"ID": "8900a2c0-edba-4079-bdf3-b276e293b6a8",
+		"Name": "Office 365 G5 GCC",
+		"matching_id_string_list": "2f105cc2-c2c1-435b-a955-c5e82156c05d,1341559b-49df-443c-8e79-fa604fed2d82,8900a2c0-edba-4079-bdf3-b276e293b6a8"
+	},
+	{
+		"ID": "91de26be-adfa-4a3d-989e-9131cc23dda7",
+		"Name": "Microsoft 365 F5",
+		"matching_id_string_list": "9f436c0e-fb32-424b-90be-6a9f2919d506,9cfd6bc3-84cd-4274-8a21-8c7c41d6c350,91de26be-adfa-4a3d-989e-9131cc23dda7,32b47245-eb31-44fc-b945-a8b1576c439f,67ffe999-d9ca-49e1-9d2c-03fb28aa7a48,3f17cf90-67a2-4fdb-8587-37c1539507e1"
+	},
+	{
+		"ID": "94763226-9b3c-4e75-a931-5c89701abe66",
+		"Name": "Office 365 A1",
+		"matching_id_string_list": "e82ae690-a2d5-4d76-8d30-7c6e01e6022e,314c4481-f395-4525-be8b-2ec4bb1e9d91,78e66a63-337a-4a9a-8959-41c6654dfb56,94763226-9b3c-4e75-a931-5c89701abe66"
+	},
+	{
+		"ID": "9c0587f3-8665-4252-a8ad-b7a5ade57312",
+		"Name": "Microsoft 365 Lighthouse",
+		"matching_id_string_list": "2347355b-4e81-41a4-9c22-55057a399791,9c0587f3-8665-4252-a8ad-b7a5ade57312"
+	},
+	{
+		"ID": "a4585165-0533-458a-97e3-c400570268c4",
+		"Name": "Office 365 A5",
+		"matching_id_string_list": "ee656612-49fa-43e5-b67e-cb1fdf7699df,a4585165-0533-458a-97e3-c400570268c4"
+	},
+	{
+		"ID": "ade29b5f-397e-4eb9-a287-0344bd46c68d",
+		"Name": "Microsoft Fabric",
+		"matching_id_string_list": "bdcaf6aa-04c1-4b8f-b64e-6e3bd505ac64,ade29b5f-397e-4eb9-a287-0344bd46c68d"
+	},
+	{
+		"ID": "b17653a4-2443-4e8c-a550-18249dda78bb",
+		"Name": "Microsoft 365 A1",
+		"matching_id_string_list": "b17653a4-2443-4e8c-a550-18249dda78bb"
+	},
+	{
+		"ID": "c7df2760-2c81-4ef7-b578-5b5392b571df",
+		"Name": "Office 365 E5",
+		"matching_id_string_list": "26d45bd9-adf1-46cd-a9e1-51e9a5524128,71772aeb-4bb8-4f74-9dd4-36c7a9b5ca74,cf50bae9-29e8-4775-b07c-56ee10e3776d,c7df2760-2c81-4ef7-b578-5b5392b571df"
+	},
+	{
+		"ID": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46",
+		"Name": "Microsoft 365 Business Premium",
+		"matching_id_string_list": "a3f586b6-8cce-4d9b-99d6-55238397f77a,cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46,24c35284-d768-4e53-84d9-b7ae73dddf69,00e1ec7b-e4a3-40d1-9441-b69b597ab222"
+	},
+	{
+		"ID": "cdd28e44-67e3-425e-be4c-737fab2899d3",
+		"Name": "Microsoft 365 Apps for Business",
+		"matching_id_string_list": "12b8c807-2e20-48fc-b453-542b6ee9d171,c32f9321-a627-406d-a114-1f9c81aaafac,ea4c5ec8-50e3-4193-89b9-50da5bd4cdc7,c2273bd0-dff7-4215-9ef5-2c7bcfb06425,b214fe43-f5a3-4703-beeb-fa97188220fc,cdd28e44-67e3-425e-be4c-737fab2899d3"
+	},
+	{
+		"ID": "e2be619b-b125-455f-8660-fb503e431a5d",
+		"Name": "Microsoft 365 GCC G5",
+		"matching_id_string_list": "b0f809d5-a662-4391-a5aa-136e9c565b9d,e2be619b-b125-455f-8660-fb503e431a5d"
+	},
+	{
+		"ID": "e578b273-6db4-4691-bba0-8d691f4da603",
+		"Name": "Office 365 A3",
+		"matching_id_string_list": "98b6e773-24d4-4c0d-a968-6e787a1f8204,e578b273-6db4-4691-bba0-8d691f4da603"
+	},
+	{
+		"ID": "e823ca47-49c4-46b3-b38d-ca11d5abe3d2",
+		"Name": "Microsoft 365 G3 GCC",
+		"matching_id_string_list": "5c739a73-651d-4c2c-8a4e-fe4ba12253b0,e823ca47-49c4-46b3-b38d-ca11d5abe3d2"
+	},
+	{
+		"ID": "e97c048c-37a4-45fb-ab50-922fbf07a370",
+		"Name": "Microsoft 365 A5",
+		"matching_id_string_list": "81441ae1-0b31-4185-a6c0-32b6b84d419f,9b8fe788-6174-4c4e-983b-3330c93ec278,31d57bc7-3a05-4867-ab53-97a17835a411,46c119d4-0379-4a9d-85e4-97c66d3f909e,e97c048c-37a4-45fb-ab50-922fbf07a370"
+	},
+	{
+		"ID": "f245ecc8-75af-4f8e-b61f-27d8114de5f3",
+		"Name": "Microsoft 365 Business Standard",
+		"matching_id_string_list": "ac5cef5d-921b-4f97-9ef3-c99076e5470f,ffa3a2a0-3820-462a-aa81-8a4d741f0cba,c1f79c29-5d7a-4bec-a2c1-1a76774864c0,f245ecc8-75af-4f8e-b61f-27d8114de5f3,5a1c7b8d-0739-4ca8-bf69-ec87e69133ac"
+	},
+	{
+		"ID": "fcecd1f9-a91e-488d-a918-a96cdb6ce2b0",
+		"Name": "Microsoft Dynamics",
+		"matching_id_string_list": "ba051a1a-4c3d-4ccd-9890-6fa6a4e696e7,3856cd1b-8033-458e-8d0f-9909ec6e6e6d,d17b27af-3f49-4822-99f9-56a661538792,906af65a-2970-46d5-9b58-4e9aa50f0657,fcecd1f9-a91e-488d-a918-a96cdb6ce2b0"
+	},
+	{
+		"ID": "fde42873-30b6-436b-b361-21af5a6b84ae",
+		"Name": "Microsoft Teams",
+		"matching_id_string_list": "7e74bd05-2c47-404e-829a-ba95c66fe8e5,52ea0e27-ae73-4983-a08f-13561ebdb823,ae2343d1-0999-43f6-ae18-d816516f6e78,b84d58c9-0a0d-46cf-8a4b-d9f23c1674d5,74fbf1bb-47c6-4796-9623-77dc7371723b,36a0f3b3-adb5-49ea-bf66-762134cf063a,e3f0522e-ebb7-4561-9f90-b44516d65b77,2cf22bcb-0c9e-4bc6-8daf-7e7654c0f285,440eaaa8-b3e0-484b-a8be-62870b9ba70a,985fcb26-7b94-475b-b512-89356697be71,b0e7de67-e503-4934-b729-53d595ba5cd1,ffaf2d68-1c95-4eb3-9ddd-59b81fba0f61,1f338bbc-767e-4a1e-a2d4-b73207cc5b93,aa6791d3-bb09-4bc2-afed-c30c3fe26032,7035277a-5e49-4abc-a24f-0ec49c501bb5,a460366a-ade7-4791-b581-9fbff1bdaa85,d979703c-028d-4de5-acbf-7955566b69b9,d01d9287-694b-44f3-bcc5-ada78c8d953e,e43b5b99-8dfb-405f-9987-dc307f34bcbd,710779e8-3d4a-4c88-adb9-386c958d1fdf,3ab6abff-666f-4424-bfb7-f0bc274ec7bc,fde42873-30b6-436b-b361-21af5a6b84ae,729dbb8f-8d56-4994-8e33-2f218f549544,9b196e97-5830-4c2e-adc2-1e10ebf5dee5,1c27243e-fb4d-42b1-ae8c-fe25c9616588"
+	},
+	{
+		"ID": "639dec6b-bb19-468b-871c-c5c441c4b0cb",
+		"Name": "Microsoft Copilot",
+		"matching_id_string_list": "639dec6b-bb19-468b-871c-c5c441c4b0cb,a809996b-059e-42e2-9866-db24b99a9782,3227bcb2-8448-4f81-b3c2-8c2074e15a2a"
+	}
+]
